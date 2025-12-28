@@ -7,3 +7,4 @@ Because a bot is a program that communicates with the user in some way, but an a
 
 # Other information
 Datumo consists of 5 lines of code if the code is made completely compact.
+Line 10 is where the actual work of the algorithm takes place.
